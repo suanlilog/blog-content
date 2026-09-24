@@ -1,0 +1,11 @@
+{
+  "title": "从 conda 转 uv 快速上手",
+  "tags": [
+    "uv",
+    "环境管理"
+  ],
+  "date": "2026-07-28",
+  "summary": "抛弃臃肿的 conda，用 Rust 写的 uv 快速管理 Python 环境与依赖。",
+  "hidden": false,
+  "category": "Python教程"
+}

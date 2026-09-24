@@ -1,0 +1,11 @@
+{
+  "title": "C盘清理",
+  "tags": [
+    "Windows",
+    "磁盘清理"
+  ],
+  "date": "2026-06-05",
+  "summary": "整理 Windows C 盘空间、迁移大文件并用目录联接保留原路径。",
+  "hidden": false,
+  "category": "工具教程"
+}

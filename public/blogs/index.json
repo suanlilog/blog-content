@@ -1,0 +1,115 @@
+[
+  {
+    "slug": "conda-to-uv",
+    "title": "从 conda 转 uv 快速上手",
+    "tags": [
+      "uv",
+      "环境管理"
+    ],
+    "date": "2026-07-28",
+    "summary": "抛弃臃肿的 conda，用 Rust 写的 uv 快速管理 Python 环境与依赖。",
+    "hidden": false,
+    "category": "Python教程"
+  },
+  {
+    "slug": "claude-code-cc-switch",
+    "title": "Claude Code + CC Switch",
+    "tags": [
+      "AI Coding",
+      "Claude Code"
+    ],
+    "date": "2026-07-25",
+    "summary": "用 CC Switch 在多个 Claude Code 配置间快速切换，提升 AI 编码效率。",
+    "hidden": false,
+    "category": "工具教程"
+  },
+  {
+    "slug": "build-github-personal-brand",
+    "title": "打造GitHub个人品牌",
+    "tags": [
+      "打造个人品牌",
+      "GitHub",
+      "个人品牌"
+    ],
+    "date": "2026-06-05",
+    "summary": "通过 GitHub 主页、组织与项目展示建立个人技术品牌的实践笔记。",
+    "hidden": false,
+    "category": "工具教程"
+  },
+  {
+    "slug": "build-mkdocs-blog",
+    "title": "从零搭建MkDocs博客",
+    "tags": [
+      "打造个人品牌",
+      "MkDocs",
+      "博客搭建"
+    ],
+    "date": "2026-06-05",
+    "summary": "从零部署 MkDocs 博客的完整记录与常用命令。",
+    "hidden": false,
+    "category": "工具教程"
+  },
+  {
+    "slug": "claude-code-python-rust-reimplementation",
+    "title": "基于claude code源码重构的python代码及其rust运行版",
+    "tags": [
+      "AI Coding工具",
+      "Claude Code",
+      "AI Coding"
+    ],
+    "date": "2026-06-05",
+    "summary": "整理 Claude Code 相关重构项目及 Python、Rust 版本的使用笔记。",
+    "hidden": false,
+    "category": "工具教程"
+  },
+  {
+    "slug": "clean-c-drive",
+    "title": "C盘清理",
+    "tags": [
+      "Windows",
+      "磁盘清理"
+    ],
+    "date": "2026-06-05",
+    "summary": "整理 Windows C 盘空间、迁移大文件并用目录联接保留原路径。",
+    "hidden": false,
+    "category": "工具教程"
+  },
+  {
+    "slug": "open-code",
+    "title": "Open Code",
+    "tags": [
+      "AI Coding工具",
+      "OpenCode",
+      "AI Coding"
+    ],
+    "date": "2026-06-05",
+    "summary": "OpenCode 与 oh-my-openagent 的基础安装和 API 配置笔记。",
+    "hidden": false,
+    "category": "工具教程"
+  },
+  {
+    "slug": "rspress-daily-update-workflow",
+    "title": "rspress日常更新流程",
+    "tags": [
+      "Rspress",
+      "归档"
+    ],
+    "date": "2026-06-05",
+    "summary": "记录旧 Rspress 博客的写作、分类与发布流程，作为迁移前的归档。",
+    "hidden": false,
+    "category": "工具教程"
+  },
+  {
+    "slug": "stardew-valley-mod-installation",
+    "title": "星露谷下载Mod教程",
+    "tags": [
+      "游戏",
+      "星露谷物语",
+      "Mod"
+    ],
+    "date": "2026-06-05",
+    "summary": "通过 Nexus Mods 与 SMAPI 安装星露谷物语 Mod 的步骤记录。",
+    "hidden": false,
+    "category": "生活"
+  }
+]

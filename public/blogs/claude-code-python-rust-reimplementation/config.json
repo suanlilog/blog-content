@@ -1,0 +1,12 @@
+{
+  "title": "基于claude code源码重构的python代码及其rust运行版",
+  "tags": [
+    "AI Coding工具",
+    "Claude Code",
+    "AI Coding"
+  ],
+  "date": "2026-06-05",
+  "summary": "整理 Claude Code 相关重构项目及 Python、Rust 版本的使用笔记。",
+  "hidden": false,
+  "category": "工具教程"
+}
